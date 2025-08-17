@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "442544643333",
+    "project_id": "free-chikanda-4nfe86",
+    "storage_bucket": "free-chikanda-4nfe86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442544643333:android:fcfd3365467c8f86f46b6c",
+        "android_client_info": {
+          "package_name": "com.mycompany.freechikanda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIFA43LV0ooUzPYt0Nd6LhxFP_g0qYkJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442544643333:android:3df8f9ed92a0e238f46b6c",
+        "android_client_info": {
+          "package_name": "freechikanda.uniprep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIFA43LV0ooUzPYt0Nd6LhxFP_g0qYkJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
